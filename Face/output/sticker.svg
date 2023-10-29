@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.852921mm"
+   height="80.519257mm"
+   viewBox="0 0 38.852921 80.519257"
+   version="1.1"
+   id="svg25174"
+   sodipodi:docname="sticker.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25176"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5699092"
+     inkscape:cx="186.635"
+     inkscape:cy="274.21968"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer4-1" />
+  <defs
+     id="defs25171">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect5977"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="3"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect34563"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.8"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect34565"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-1.6"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect34561"
+       is_visible="true"
+       lpeversion="1.2"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-2.4"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <g
+     inkscape:label="Kw"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.568933,-32.689477)">
+    <ellipse
+       style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.245061;stroke-dasharray:none"
+       id="ellipse6332"
+       cx="64.425812"
+       cy="107.956"
+       rx="5.3544006"
+       ry="5.2527347"
+       inkscape:label="mask" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="main"
+     style="display:inline"
+     transform="translate(-48.995633,11.600539)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4-1"
+       inkscape:label="Spray Mask"
+       style="display:inline"
+       transform="translate(-91.374497,-76.846292)">
+      <path
+         id="path5074"
+         style="display:inline;fill:#ff00ff;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+         d="m 159.79633,65.245753 c -6.58519,0 -13.06416,0.262405 -19.4262,0.734322 v 16.467727 h 12.95114 12.95115 12.95063 V 65.980075 c -6.36234,-0.471961 -12.84122,-0.734322 -19.42672,-0.734322 z"
+         inkscape:label="Top" />
+      <circle
+         style="display:inline;fill:#ff00ff;stroke-width:0.20197"
+         id="circle5062"
+         cx="150.48598"
+         cy="112.14693"
+         r="6.0208845"
+         inkscape:label="kph" />
+      <circle
+         style="display:inline;fill:#ff00ff;stroke-width:0.20197"
+         id="circle5064"
+         cx="168.6019"
+         cy="111.64135"
+         r="6.0208845"
+         inkscape:label="RPM" />
+      <circle
+         style="display:inline;fill:#ff00ff;stroke-width:0.153946"
+         id="circle5066"
+         cx="166.45914"
+         cy="125.82005"
+         r="4.589262"
+         inkscape:label="Temp" />
+      <circle
+         style="display:inline;fill:#ff00ff;stroke-width:0.153946"
+         id="circle5068"
+         cx="151.2805"
+         cy="125.6515"
+         r="4.589262"
+         inkscape:label="SOC" />
+      <circle
+         style="display:inline;fill:#ff00ff;stroke:none;stroke-width:0.504752"
+         id="path5194"
+         cx="169.65338"
+         cy="94.928719"
+         r="7.1341248"
+         inkscape:label="BlinkerR" />
+      <circle
+         style="display:inline;fill:#ff00ff;stroke:none;stroke-width:0.504752"
+         id="circle5198"
+         cx="149.57767"
+         cy="94.928719"
+         r="7.1341248"
+         inkscape:label="BlinkerL" />
+      <path
+         style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.506"
+         d="m 177.07597,138.16913 a 28.351921,28.224672 59.554005 0 0 -4.85373,-2.32249 l -1.81842,4.85057 a 23.101189,23.101189 0 0 1 4.09843,1.92065 z"
+         id="path5878"
+         inkscape:label="red" />
+      <path
+         style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.506"
+         d="m 149.90482,135.67868 -5.14282,0.0402 a 23.101189,23.101189 0 0 1 -0.45156,5.10992 l 5.07675,0.94581 a 28.351921,28.224672 59.554005 0 0 0.51764,-6.09584 z"
+         id="path6549"
+         inkscape:label="red" />
+    </g>
+  </g>
+</svg>
